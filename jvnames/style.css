@@ -1,0 +1,41 @@
+
+body {
+    background-image: url("img/Edzf4ypWsAAtG8Y\ \(1\).jpg");
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+  h1 {
+    color: #333;
+  }
+  
+  input,
+  button {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  #resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #007acc;
+  }
+  
+  .container {
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+  }
+  
